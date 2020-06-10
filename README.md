@@ -1,5 +1,6 @@
-## kill_android 1주차 과제
-  
+## KA_1week
+kill_android 1주차 과제
+
 <strong> 꾸믈 회원가입창+ 맷독 분양추천장 만들기 </strong>
 
 회원가입창에서 가입완료 버튼 누를 시 분양추천창으로 넘어갈 수 있도록
